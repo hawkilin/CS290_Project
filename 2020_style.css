@@ -1,0 +1,62 @@
+#menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #F2D2BD;
+}
+
+#other-page {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: #A95C68;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-weight: bolder;
+	color: #A95C68;
+}
+
+li a:hover {
+	background-color: #E97451;
+}
+
+h1 {
+	color: #A95C68;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+h2 {
+	color: #E97451;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+h3 {
+	color: #A95C68;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+div {
+	height: 120px;
+	width: 300px;
+	border: 1px solid #ccc;
+	overflow: auto;
+	margin: 0 auto;
+	background-color: #F2D2BD;
+}
+
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+	text-align: center;
+}
